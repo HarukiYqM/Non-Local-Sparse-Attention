@@ -68,7 +68,7 @@ For more informaiton, please refer to [EDSR(PyTorch)](https://github.com/thstkdg
 ## Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
 ```
-  @InProceedings{Mei_2021_CVPR,
+@InProceedings{Mei_2021_CVPR,
     author    = {Mei, Yiqun and Fan, Yuchen and Zhou, Yuqian},
     title     = {Image Super-Resolution With Non-Local Sparse Attention},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
