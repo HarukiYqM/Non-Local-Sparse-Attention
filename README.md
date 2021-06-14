@@ -20,7 +20,7 @@ Non-Local Sparse Attention.
 
 ![NLSN](/Figs/NLSN.png)
 
-Non-Local Sparse Network
+Non-Local Sparse Network.
 
 ## Train
 ### Prepare training data 
